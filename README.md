@@ -1,8 +1,9 @@
 # 🏄‍♂️ Raj vardhan
 
 **`full-stack developer`**
+.<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/037/340/734/original/ej-ragas-character-enemy-attack.gif?1620138173">
 
-I'm an indie full-stack developer with a passion for front-end development. In my third year of college, skilled in HTML, CSS, and JavaScript. Eager to create captivating user interfaces and explore back-end technologies. Committed to continuous learning and contributing to impactful projects. Enjoys nature and spending time with loved ones.<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/037/340/734/original/ej-ragas-character-enemy-attack.gif?1620138173">
+I'm an indie full-stack developer with a passion for front-end development. In my third year of college, skilled in HTML, CSS, and JavaScript. Eager to create captivating user interfaces and explore back-end technologies. Committed to continuous learning and contributing to impactful projects. Enjoys nature and spending time with loved ones
 
 
 ### 🧰 Languages and Tools
