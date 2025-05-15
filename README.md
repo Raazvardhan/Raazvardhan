@@ -19,6 +19,8 @@ Indie full-stack developer skilled in JavaScript, React.js, and Next.js. Passion
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+
+<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/068/923/496/original/gabriel-zanini-possessed-armor-sword-crit.gif?1698936795">
 #
 ###  📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=raazvardhan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
