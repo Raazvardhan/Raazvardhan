@@ -3,8 +3,6 @@
 **`Full-stack developer`**
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/068/922/195/original/gabriel-zanini-mercenary-crit.gif?1698935085">
 
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/068/923/496/original/gabriel-zanini-possessed-armor-sword-crit.gif?1698936795">
-
 Indie full-stack developer skilled in JavaScript, React.js, and Next.js. Passionate about front-end design and building full-stack applications. Always learning and driven to create impactful projects. Nature lover who values time with loved ones.
 
 ### 🧰 Languages and Tools
