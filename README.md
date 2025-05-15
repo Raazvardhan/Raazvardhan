@@ -1,7 +1,7 @@
 # 🏄‍♂️ Raj vardhan
 
 **`Full-stack developer`**
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/068/923/496/original/gabriel-zanini-possessed-armor-sword-crit.gif?1698936795">
+<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/068/922/195/original/gabriel-zanini-mercenary-crit.gif?1698935085">
 
 
 I'm an indie full-stack developer with a strong focus on front-end experiences, skilled in JavaScript, React.js, and Next.js. I enjoy building clean, user-centric interfaces and exploring scalable back-end solutions. As a full-stack developer, I'm committed to continuous learning and delivering impactful, high-quality products. Outside of tech, I enjoy nature and spending quality time with loved ones
