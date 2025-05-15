@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/018/384/631/original/john-baker-swordcape-big.gif?1559163620">
 
 
-I'm an indie full-stack developer with a passion for front-end development. In my third year of college, skilled in HTML, CSS, and JavaScript. Eager to create captivating user interfaces and explore back-end technologies. Committed to continuous learning and contributing to impactful projects. Enjoys nature and spending time with loved ones
+I'm an indie full-stack developer with a strong focus on front-end experiences, skilled in JavaScript, React.js, and Next.js. I enjoy building clean, user-centric interfaces and exploring scalable back-end solutions. As a full-stack developer, I'm committed to continuous learning and delivering impactful, high-quality products. Outside of tech, I enjoy nature and spending quality time with loved ones
 
 
 ### 🧰 Languages and Tools
