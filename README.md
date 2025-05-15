@@ -3,9 +3,7 @@
 **`Full-stack developer`**
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/068/922/195/original/gabriel-zanini-mercenary-crit.gif?1698935085">
 
-
-I'm an indie full-stack developer with a strong focus on front-end experiences, skilled in JavaScript, React.js, and Next.js. I enjoy building clean, user-centric interfaces and exploring scalable back-end solutions. As a full-stack developer, I'm committed to continuous learning and delivering impactful, high-quality products. Outside of tech, I enjoy nature and spending quality time with loved ones
-
+Indie full-stack developer skilled in JavaScript, React.js, and Next.js. Passionate about front-end design and building full-stack applications. Always learning and driven to create impactful projects. Nature lover who values time with loved ones.
 
 ### 🧰 Languages and Tools
 
